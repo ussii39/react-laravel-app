@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          テストです
+          明日から本気だす
         </a>
       </header>
     </div>
